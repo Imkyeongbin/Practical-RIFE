@@ -79,7 +79,7 @@ demo = gr.Interface(
   ],
 )
 
-demo.launch(server_name="Inference_vedio simple Web UI")
+demo.launch(server_name="Inference_video simple Web UI")
 
 @demo.gradio_function
 def process(video_path, multi, scale, fps):
