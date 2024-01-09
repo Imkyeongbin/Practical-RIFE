@@ -11,7 +11,7 @@
 
     `source ./run.sh`  (Linux/Unix)
 
-You can see a simple Web UI to make a RIFE-applied video
+You can see a simple Web UI to generate a RIFE-applied video
 
 --
 
