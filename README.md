@@ -4,7 +4,12 @@
 2. `pip install -r requirements.txt`
 
 3. ~~python inference_video.py --multi={Number you wanna multiply to base video fps} --video="{videopath}"~~
-python lucas_run.py
+
+    `run.cmd`  (Windows)
+
+    OR 
+
+    `source ./run.sh`  (Linux/Unix)
 
 You can see a simple Web UI to make a RIFE-applied video
 
