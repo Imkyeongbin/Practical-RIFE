@@ -1,0 +1,11 @@
+1. git clone https://github.com/scikit-video/scikit-video.git
+
+2. cd scikit-video
+
+3. python setup.py build
+
+4. python setup.py install
+
+5. cd ..
+
+6. python inference_video.py --multi=6 --video="{videopath}"

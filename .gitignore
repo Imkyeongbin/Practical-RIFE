@@ -12,3 +12,7 @@ test/
 *.npz
 
 *.zip
+/.venv
+/.vscode
+/scikit-video
+/#videos
