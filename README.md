@@ -1,3 +1,18 @@
+###
+1. download models and extract to here, then it will overwrite `train_log` directory.
+
+2. `pip install -r requirements.txt`
+
+3. ~~ python inference_video.py --multi={Number you wanna multiply to base video fps} --video="{videopath}" ~~
+python lucas_run.py
+
+You can see a simple Web UI to make a RIFE-applied video
+
+--
+
+
+
+
 # Practical-RIFE 
 **[V4.0 Promotional Video (宣传视频）](https://www.bilibili.com/video/BV1J3411t7qT?p=1&share_medium=iphone&share_plat=ios&share_session_id=7AE3DA72-D05C-43A0-9838-E2A80885BD4E&share_source=QQ&share_tag=s_i&timestamp=1639643780&unique_k=rjqO0EK)**  
 
